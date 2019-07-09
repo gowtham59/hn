@@ -1,2 +1,2 @@
 rg15=int(input())
-print(rgv15+1)
+print(rg15+1)
